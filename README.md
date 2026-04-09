@@ -4,7 +4,7 @@ Họ và Tên: Nguyễn Hồng Đăng
 MSSV: 23810310039
 Lớp: D18CNPM1
 
-- Hướng dẫn chạy project:
+<h1> Hướng dẫn chạy project: </h1>
 
 * clone project vào máy
 * mở cmd -> cd đến thư mục tiktokUI
